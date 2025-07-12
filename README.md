@@ -21,13 +21,19 @@ Para llegar a una recomendación, el análisis se basó en los siguientes puntos
 
 Ingresos Totales: Se calculó el ingreso total generado por cada tienda para entender su rendimiento financiero.
 
+![Gráfico de ingresos totales](./assets/2.png)
+
 Rendimiento por Categoría: Se analizó qué categorías de productos (Muebles, Electrónicos, etc.) son las más populares en cada tienda para identificar sus fortalezas y debilidades.
 
 Calificación Promedio: Se promediaron las calificaciones de los productos por tienda para medir la satisfacción del cliente, un indicador clave de la salud y reputación del negocio.
 
+![Gráfico de calificacion promedio](./assets/1.png)
+
 Productos Más y Menos Vendidos: Se identificaron los productos específicos con mayor y menor rotación para entender el comportamiento del inventario.
 
 Costos Operativos: Se evaluó el costo de envío promedio por tienda para tener una idea de la eficiencia logística y los gastos asociados.
+
+![Gráfico de envio promedio](./assets/3.png)
 
 💡 Conclusión y Recomendación
 Tras analizar las métricas, se concluye que cada tienda tiene un perfil de rendimiento distinto. La recomendación final se basa en una combinación de factores como los ingresos, la satisfacción del cliente y los costos.
