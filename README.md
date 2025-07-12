@@ -1,4 +1,5 @@
-Análisis de Tiendas para Decisión de Venta
+#Análisis de Tiendas para Decisión de Venta
+
 Este proyecto realiza un análisis de datos para ayudar a un empresario, el Señor Juan, a tomar una decisión informada sobre cuál de sus cuatro tiendas vender para financiar un nuevo negocio.
 
 📝 Descripción
